@@ -4,6 +4,10 @@ A raffle system written in Delphi.
 Software for raffle of numbers or photos.
 The Software was tested in Delphi 7, XE, XE2, XE3 and XE4.
 
+##Download 
+
+File exe.:[File](https://raw.githubusercontent.com/duanemsilva/NumberRaffle/master/Sorteio.zip)
+
 Config raffle
 -
 ![Config](https://raw.githubusercontent.com/duanemsilva/NumberRaffle/master/Sorteio%20Images/Config.png)
