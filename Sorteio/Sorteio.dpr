@@ -4,8 +4,7 @@ uses
   Vcl.Forms,
   midaslib,
   Unit1 in 'Unit1.pas' {Form1},
-  Unit2 in 'Unit2.pas' {Form2},
-  u_Functions in '..\CCL\Source\Functions\u_Functions.pas';
+  Unit2 in 'Unit2.pas' {Form2};
 
 {$R *.res}
 

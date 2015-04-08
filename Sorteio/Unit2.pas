@@ -5,7 +5,7 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ComCtrls,Rpdevice, Vcl.Buttons,
-   RpDefine, FileCtrl ,u_Functions, RpBase, RpSystem, Data.DB, Datasnap.DBClient, Unit1,
+   RpDefine, FileCtrl , RpBase, RpSystem, Data.DB, Datasnap.DBClient, Unit1,
   Vcl.Samples.Spin;
 
 type

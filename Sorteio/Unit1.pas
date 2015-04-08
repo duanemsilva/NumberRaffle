@@ -66,7 +66,7 @@ implementation
 
 {$R *.dfm}
 
-uses Unit2, u_Functions;
+uses Unit2;
 
 
 procedure TForm1.BitBtn1Click(Sender: TObject);
